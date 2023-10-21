@@ -1,0 +1,38 @@
+percival
+
+HP		ArmorClass	DifficultyClass
+202		18		20
+Strenght	Dexterity	Con
+12		22		14
+Intelligence	Wisdom		Charisma
+20		16		14
+
+
+vax
+
+HP		AC		DC
+127		21		16
+Str		Dex		Con
+14		20		11
+Int		Wis		Cha
+16		14		14
+
+
+fearne
+
+HP		AC		DC
+75		17		17
+Str		Dex		Con
+7		14		15
+Int		Wis		Cha
+9		20		16
+
+
+Keyleth
+
+HP		AC		DC
+147		17		21
+Str		Dex		Con
+14		15		14
+Int		Wis		Cha
+15		22		10
