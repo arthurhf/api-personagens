@@ -1,4 +1,6 @@
-Api developed in Java SpringBoot with maven and available at https://api-personagens-production.up.railway.app by the time of this commit.
+api-personagens is an API that saves and retrieves DnD characters stats on a postgresql database.
+
+It was developed in Java SpringBoot with maven and is available at https://api-personagens-production.up.railway.app by the time of this commit.
 
 Request example:
 
@@ -16,8 +18,6 @@ body: ```{
   "wisdom": 10,
   "charisma": 8
 }```
-
-api-personagens is an API that saves and retrieves DnD characters stats on a postgresql database.
 
 GET - returns the stats of a character based on it's id (/personagens/6)
 
